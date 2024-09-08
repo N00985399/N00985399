@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **Nothing!**
+- 🔭 I’m currently looking into **how to integrate Software with Electrical Appliances, & Infrastructure!**
 
 - 🌱 I’m currently learning **means of improving my Python knowledge**
 
-- 💬 Ask me about **Python, Lua, JS, Java, C++, TIBASIC**
+- 💬 Ask me about **Python, Lua, JS, Java, C++, TIBASIC, Arduino**
 
-- 📫 How to reach me **College Email!**
+- 📫 How to reach me **Public Email!**
 
-- 📄 Know about my experiences [2 Years Robotics Experience (VEX VRC), Python Discord CodeJam Competitor, 2x Long Island Hackathon Attendee & 2023-2024 Long Island KidOYO Winning Team, AP Computer Science 4/5](2 Years Robotics Experience (VEX VRC), Python Discord CodeJam Competitor, 2x Long Island Hackathon Attendee & 2023-2024 Long Island KidOYO Winning Team, AP Computer Science 4/5)]
+- 📄 Know about my experiences: 7 (2 Years Professionally Taught) Years Self-Taught Python, 2 Years Java, 2 Years JavaScript, 1 Year C# & C++
 
 - ⚡ Fun fact **I am a certified Electrical Apprentice, looking to integrate Software with Electrical Appliances, & Infrastructure!**
 

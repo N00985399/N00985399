@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dial 🦇</h1>
+<h1 align="center">Hi 👋, I'm Jack 🦇</h1>
 <h3 align="center">College Freshmen, Nassau Community College</h3>
 
 

@@ -4,12 +4,13 @@
 
 
 - 🔭 I’m currently looking into **how to integrate Software with Electrical Appliances, & Infrastructure!**
-
+- 📘 I'm currently focusing on **Getting my Computer Science Bachelors Degree.**
+ 
 - 🌱 I’m currently learning **means of improving my Python knowledge**
 
-- 💬 Ask me about **Python, Lua, JS, Java, C++, TIBASIC, Arduino**
+- 💬 Ask me about **Python, Lua, JS, Java, C++, TIBASIC, Arduino, & Electrical (Not a programming language.)**
 
-- 📫 How to reach me **Public Email!**
+- 📫 How to reach me **College Email!**
 
 - 📄 Know about my experiences: 7 (2 Years Professionally Taught) Years Self-Taught Python, 2 Years Java, 2 Years JavaScript, 1 Year C# & C++
 
